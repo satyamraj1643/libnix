@@ -1,0 +1,3 @@
+/home/satyam/Desktop/libservonix/build/CMakeFiles/libservonix.dir
+/home/satyam/Desktop/libservonix/build/CMakeFiles/edit_cache.dir
+/home/satyam/Desktop/libservonix/build/CMakeFiles/rebuild_cache.dir

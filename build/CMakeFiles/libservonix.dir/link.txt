@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/libservonix.dir/main.cpp.o CMakeFiles/libservonix.dir/Networking/Server.cpp.o CMakeFiles/libservonix.dir/Networking/Handlers/HomeHandler.cpp.o CMakeFiles/libservonix.dir/Networking/Handlers/AboutHandler.cpp.o -o libservonix 
